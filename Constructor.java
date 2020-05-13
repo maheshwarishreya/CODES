@@ -11,7 +11,7 @@
 	marks=m;
  void display()
  {
-	 System.out.println(id+" "+name+" "+marks);
+	 System.out.println(id+"  "+name+" "+marks);
  }
  public static void main(String args[])
  {
